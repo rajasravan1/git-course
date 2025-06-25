@@ -1,2 +1,0 @@
-username = raja02
-password = raja123
